@@ -13,7 +13,6 @@ numpy
 ordereddict
 protobuf
 pyOpenSSL
-pywin
 thread
 toml
 tornado
